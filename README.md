@@ -8,8 +8,7 @@ Aplicación web para buscar y explorar información detallada de películas. Per
 
 ## 📸 Vista previa
 
-![PeliculasPlus screenshot](./PeliculasPlus/src/assets/website.png)
-
+![PeliculasPlus screenshot](./src/assets/website.png)
 ---
 
 ## 🛠️ Tecnologías utilizadas
