@@ -1,70 +1,67 @@
-# Getting Started with Create React App
+# 🎬 PeliculasPlus
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Aplicación web para buscar y explorar información detallada de películas. Permite descubrir estrenos, explorar por géneros, ver fichas completas y guardar favoritos en una lista personal.
 
-## Available Scripts
+🔗 **Demo en vivo:** [peliculas-plus.vercel.app](https://peliculas-plus.vercel.app)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 📸 Vista previa
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![PeliculasPlus screenshot](./PeliculasPlus/src/assets/website.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🛠️ Tecnologías utilizadas
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **React** — biblioteca principal de UI
+- **Create React App** — configuración y bundling
+- **JavaScript (ES6+)**
+- **HTML5 / CSS3**
+- **API de películas** — datos de películas en tiempo real
+- **Vercel** — despliegue y hosting
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## ✨ Funcionalidades
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- 🔍 Búsqueda de películas por título
+- 🏷️ Exploración por géneros (Acción, Drama, Comedia, Terror, etc.)
+- ⚡ Sección de estrenos recientes
+- 🔥 Películas populares
+- 📋 Lista personal de favoritos
+- 🎞️ Ficha detallada por película
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🚀 Instalación local
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```bash
+# Clonar el repositorio
+git clone https://github.com/PaulaDev12/PeliculasPlus.git
+cd PeliculasPlus
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Instalar dependencias
+npm install
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Iniciar en modo desarrollo
+npm start
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Abre [http://localhost:3000](http://localhost:3000) en tu navegador.
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 📦 Scripts disponibles
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+| Comando | Descripción |
+|---|---|
+| `npm start` | Inicia el servidor de desarrollo |
+| `npm run build` | Genera build de producción |
+| `npm test` | Ejecuta las pruebas |
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 👩‍💻 Autora
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Paula Arias** — [PaulaDev12](https://github.com/PaulaDev12)
